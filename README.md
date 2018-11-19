@@ -19,3 +19,13 @@ Start time: 11:00
 Finish time: 13:10
 
 Actual time needed to complete: 2 hours
+--------------------
+Number and name of feature: Feature #3: Add Functionality
+
+Estimate of time needed to complete: 2.5 hours
+
+Start time: _____
+
+Finish time: _____
+
+Actual time needed to complete: _____
